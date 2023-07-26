@@ -1,0 +1,28 @@
+.calendar {
+    margin: 20px;
+}
+
+table, th, td{
+    border: 1px solid black;
+}
+table {
+    border-collapse: collapse;
+}
+
+td {
+    width: 120px;
+    vertical-align: top;
+}
+
+ul {
+    padding:0;
+    
+}
+
+li {
+    list-style-type: none;
+}
+
+
+
+

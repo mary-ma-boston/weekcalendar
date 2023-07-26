@@ -1,0 +1,37 @@
+.container {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.calendarContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+ 
+}
+
+.formCon {
+    width: 250px;
+    height: 150px;
+    position: absolute;
+    top: 400px;
+    border: 1px solid black;
+}
+
+.inputStyle {
+    margin: 10px;
+    position: relative;;
+}
+.inputStyle input {
+    width: 150px;
+    position: absolute;
+    left: 60px;
+}
+
+.formCon button{
+    width: 80px;
+    display: block;
+    margin: 20px auto;   
+}
